@@ -1,0 +1,1 @@
+This Python script generates a random password containing a mix of letters (both uppercase and lowercase), digits, and symbols. It ensures that the generated password is at least 6 characters long, though the default length is 12 characters. 
